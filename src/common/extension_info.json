@@ -1,0 +1,17 @@
+{
+    "name": "My jobs",
+    "version": "0.0.9",
+    "description": "My jobs",
+    "creator": "My jobs",
+    "background_scripts": ["main.js"],
+    "browser_button": {
+        "tooltipText": "My jobs",
+        "caption": "My jobs",
+        "icon": "icons/button.png",
+        "popup": {
+            "url": "popup.html",
+            "width": 500,
+            "height": 220
+        }
+    }
+}
