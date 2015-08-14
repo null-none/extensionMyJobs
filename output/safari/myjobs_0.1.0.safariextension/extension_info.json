@@ -6,7 +6,7 @@
         "main.js"
     ], 
     "developer_id": "YOUR_SAFARI_DEVELOPER_ID", 
-    "version": "0.0.9", 
+    "version": "0.1.0", 
     "framework_package_id": "dev", 
     "browser_button": {
         "caption": "My jobs", 
