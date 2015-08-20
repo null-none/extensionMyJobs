@@ -5,7 +5,7 @@
     "background_scripts": [
         "main.js"
     ], 
-    "package_id": "kango-2e178d3f-b459-4440-88c7-e39f80c4acce", 
+    "developer_id": "YOUR_SAFARI_DEVELOPER_ID", 
     "version": "0.1.2", 
     "framework_package_id": "dev", 
     "browser_button": {
@@ -18,6 +18,6 @@
         }, 
         "tooltipText": "My jobs"
     }, 
-    "id": "{2E178D3F-B459-4440-88C7-E39F80C4ACCE}", 
+    "id": "com.kangoextensions.myjobs", 
     "description": "My jobs"
 }
