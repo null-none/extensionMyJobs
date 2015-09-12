@@ -6,7 +6,7 @@
         "main.js"
     ], 
     "package_id": "kango-2e178d3f-b459-4440-88c7-e39f80c4acce", 
-    "version": "0.1.4", 
+    "version": "0.1.5", 
     "framework_package_id": "dev", 
     "browser_button": {
         "caption": "My jobs", 

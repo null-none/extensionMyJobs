@@ -5,7 +5,7 @@
     "background_scripts": [
         "main.js"
     ], 
-    "version": "0.1.4", 
+    "version": "0.1.5", 
     "framework_package_id": "dev", 
     "browser_button": {
         "caption": "My jobs", 
