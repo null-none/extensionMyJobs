@@ -1,6 +1,6 @@
 {
     "name": "My jobs",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "My jobs",
     "creator": "My jobs",
     "background_scripts": ["main.js"],
